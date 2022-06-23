@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FIESTAutils"]
+	path = FIESTAutils
+	url = https://github.com/usdaforestservice/fiestautils
+	shallow = true
+	registered = true
