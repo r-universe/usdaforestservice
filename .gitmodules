@@ -8,3 +8,8 @@
 	url = https://github.com/usdaforestservice/fiestautils
 	shallow = true
 	registered = true
+[submodule "gdalraster"]
+	path = gdalraster
+	url = https://github.com/usdaforestservice/gdalraster
+	shallow = true
+	registered = true
