@@ -1,8 +1,0 @@
-[
-  {
-    "package": "gdalraster",
-    "url": "https://github.com/USDAForestService/gdalraster",
-    "via": ["FIESTAutils"],
-    "from": "FIESTAutils"
-  }
-]
