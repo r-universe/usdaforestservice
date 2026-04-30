@@ -4,5 +4,11 @@
     "url": "https://github.com/USDAForestService/FIESTAutils",
     "via": ["FIESTA"],
     "from": "FIESTA"
+  },
+  {
+    "package": "gdalraster",
+    "url": "https://github.com/firelab/gdalraster",
+    "via": ["FIESTAutils"],
+    "from": "FIESTAutils"
   }
 ]

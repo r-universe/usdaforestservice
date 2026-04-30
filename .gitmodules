@@ -8,3 +8,7 @@
 [submodule "FIESTAutils"]
 	path = FIESTAutils
 	url = https://github.com/usdaforestservice/fiestautils
+[submodule "gdalraster"]
+	path = gdalraster
+	url = https://github.com/firelab/gdalraster
+	registered = false
